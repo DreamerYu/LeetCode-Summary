@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42adc099-e1ae-4c91-ad8c-dd99fc5a7688" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ALL_Problems/1011. Capacity To Ship Packages Within D Days/1011. Capacity To Ship Packages Within D Days.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ALL_Problems/410. Split Array Largest Sum/410. Split Array Largest Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/Binary_Search/1011. Capacity To Ship Packages Within D Days.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/Binary_Search/410. Split Array Largest Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ALL_Problems/1021. Remove Outermost Parentheses/1021. Remove Outermost Parentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ALL_Problems/1022. Sum of Root To Leaf Binary Numbers/1022. Sum of Root To Leaf Binary Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ALL_Problems/1023. Camelcase Matching/1023. Camelcase Matching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ALL_Problems/1024. Video Stitching/1024. Video Stitching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/Array_Overlap/1024. Video Stitching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/Stack/1021. Remove Outermost Parentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/String/1023. Camelcase Matching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/Tree/1022. Sum of Root To Leaf Binary Numbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,62 +21,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ALL_Problems/1016. Binary String With Substrings Representing 1 To N/1016. Binary String With Substrings Representing 1 To N.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classification/Bit/1016. Binary String With Substrings Representing 1 To N.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ALL_Problems/1014. Best Sightseeing Pair/1014. Best Sightseeing Pair.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classification/Array/1014. Best Sightseeing Pair.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ALL_Problems/1013. Partition Array Into Three Parts With Equal Sum/1013. Partition Array Into Three Parts With Equal Sum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classification/Array/1013. Partition Array Into Three Parts With Equal Sum.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ALL_Problems/1011. Capacity To Ship Packages Within D Days/1011. Capacity To Ship Packages Within D Days.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classification/Binary_Search/1011. Capacity To Ship Packages Within D Days.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ALL_Problems/410. Split Array Largest Sum/410. Split Array Largest Sum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
@@ -81,8 +29,64 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Classification/Binary_Search/410. Split Array Largest Sum.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ALL_Problems/1021. Remove Outermost Parentheses/1021. Remove Outermost Parentheses.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classification/Stack/1021. Remove Outermost Parentheses.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ALL_Problems/1022. Sum of Root To Leaf Binary Numbers/1022. Sum of Root To Leaf Binary Numbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classification/Tree/1022. Sum of Root To Leaf Binary Numbers.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ALL_Problems/1023. Camelcase Matching/1023. Camelcase Matching.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classification/String/1023. Camelcase Matching.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ALL_Problems/1024. Video Stitching/1024. Video Stitching.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Classification/Array_Overlap/1024. Video Stitching.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -107,6 +111,10 @@
         <option value="$PROJECT_DIR$/ALL_Problems/1013. Partition Array Into Three Parts With Equal Sum/1013. Partition Array Into Three Parts With Equal Sum.java" />
         <option value="$PROJECT_DIR$/ALL_Problems/1011. Capacity To Ship Packages Within D Days/1011. Capacity To Ship Packages Within D Days.java" />
         <option value="$PROJECT_DIR$/ALL_Problems/410. Split Array Largest Sum/410. Split Array Largest Sum.java" />
+        <option value="$PROJECT_DIR$/ALL_Problems/1021. Remove Outermost Parentheses/1021. Remove Outermost Parentheses.java" />
+        <option value="$PROJECT_DIR$/ALL_Problems/1022. Sum of Root To Leaf Binary Numbers/1022. Sum of Root To Leaf Binary Numbers.java" />
+        <option value="$PROJECT_DIR$/ALL_Problems/1023. Camelcase Matching/1023. Camelcase Matching.java" />
+        <option value="$PROJECT_DIR$/ALL_Problems/1024. Video Stitching/1024. Video Stitching.java" />
       </list>
     </option>
   </component>
@@ -119,6 +127,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,6 +174,12 @@
             <path>
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
+              <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="1024. Video Stitching" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
               <item name="Classification" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -187,31 +203,29 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554527383064" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554686739419" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="spring.boot" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Classification/Binary_Search" />
-      <recent name="$PROJECT_DIR$/Classification/Array" />
-      <recent name="$PROJECT_DIR$/Classification/Bit" />
-      <recent name="$PROJECT_DIR$/Classification/Overflow" />
-      <recent name="$PROJECT_DIR$/Classification/Palindrome" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Depth-First-Search" />
       <recent name="$PROJECT_DIR$/ALL_Problems/1020. Number of Enclaves" />
       <recent name="$PROJECT_DIR$/ALL_Problems/1019. Next Greater Node In Linked List" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Classification/Array_Overlap" />
+      <recent name="$PROJECT_DIR$/Classification/String" />
+      <recent name="$PROJECT_DIR$/Classification/Tree" />
+      <recent name="$PROJECT_DIR$/Classification/Stack" />
+      <recent name="$PROJECT_DIR$/Classification/Binary_Search" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -242,16 +256,17 @@
       <workItem from="1554353174065" duration="325000" />
       <workItem from="1554439894778" duration="187000" />
       <workItem from="1554527274277" duration="143000" />
+      <workItem from="1554686228083" duration="457000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3055000" />
+    <option name="totallyTimeSpent" value="3512000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26495728" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26800978" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -412,6 +427,46 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Classification/Binary_Search/410. Split Array Largest Sum.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ALL_Problems/1021. Remove Outermost Parentheses/1021. Remove Outermost Parentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/Stack/1021. Remove Outermost Parentheses.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ALL_Problems/1022. Sum of Root To Leaf Binary Numbers/1022. Sum of Root To Leaf Binary Numbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/Tree/1022. Sum of Root To Leaf Binary Numbers.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ALL_Problems/1023. Camelcase Matching/1023. Camelcase Matching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/String/1023. Camelcase Matching.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ALL_Problems/1024. Video Stitching/1024. Video Stitching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/Array_Overlap/1024. Video Stitching.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
