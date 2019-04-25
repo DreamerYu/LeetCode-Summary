@@ -2,24 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42adc099-e1ae-4c91-ad8c-dd99fc5a7688" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ALL_Problems/1025. Divisor Game/1025. Divisor Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ALL_Problems/1026. Maximum Difference Between Node and Ancestor/1026. Maximum Difference Between Node and Ancestor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ALL_Problems/1027. Longest Arithmetic Sequence/1027. Longest Arithmetic Sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ALL_Problems/1029. Two City Scheduling/1029. Two City Scheduling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ALL_Problems/1030. Matrix Cells in Distance Order/1030. Matrix Cells in Distance Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ALL_Problems/1032. Stream of Characters/1032. Stream of Characters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ALL_Problems/980. Unique Paths III/980. Unique Paths III.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ALL_Problems/993. Cousins in Binary Tree/993. Cousins in Binary Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/Breadth-First-Search/993. Cousins in Binary Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/Comparator/1030. Matrix Cells in Distance Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/Depth-First-Search/980. Unique Paths III.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/Dynamic Programming/1025. Divisor Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/Dynamic Programming/1027. Longest Arithmetic Sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/Greedy/1029. Two City Scheduling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/Recursion/1025. Divisor Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/Tree/1026. Maximum Difference Between Node and Ancestor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/Tree/993. Cousins in Binary Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/Trie/1032. Stream of Characters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ALL_Problems/1031. Maximum Sum of Two Non-Overlapping Subarrays/1031. Maximum Sum of Two Non-Overlapping Subarrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ALL_Problems/921. Minimum Add to Make Parentheses Valid.java/921. Minimum Add to Make Parentheses Valid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ALL_Problems/968. Binary Tree Cameras/968. Binary Tree Cameras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ALL_Problems/977. Squares of a Sorted Array/977. Squares of a Sorted Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ALL_Problems/979. Distribute Coins in Binary Tree/979. Distribute Coins in Binary Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ALL_Problems/981. Time Based Key-Value Store/981. Time Based Key-Value Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ALL_Problems/994. Rotting Oranges/994. Rotting Oranges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/Array/1031. Maximum Sum of Two Non-Overlapping Subarrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/Array/977. Squares of a Sorted Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/Breadth-First-Search/994. Rotting Oranges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/Depth-First-Search/968. Binary Tree Cameras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/Depth-First-Search/979. Distribute Coins in Binary Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/Stack/921. Minimum Add to Make Parentheses Valid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/Tree/968. Binary Tree Cameras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/Tree/979. Distribute Coins in Binary Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/TreeMap/981. Time Based Key-Value Store.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,68 +29,72 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classification/Comparator/1030. Matrix Cells in Distance Order.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ALL_Problems/1029. Two City Scheduling/1029. Two City Scheduling.java">
+        <entry file="file://$PROJECT_DIR$/ALL_Problems/981. Time Based Key-Value Store/981. Time Based Key-Value Store.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="405">
+              <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+              <folding>
+                <element signature="e#136#137#0" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classification/Greedy/1029. Two City Scheduling.java">
+        <entry file="file://$PROJECT_DIR$/Classification/TreeMap/981. Time Based Key-Value Store.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ALL_Problems/1025. Divisor Game/1025. Divisor Game.java">
+        <entry file="file://$PROJECT_DIR$/ALL_Problems/977. Squares of a Sorted Array/977. Squares of a Sorted Array.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+            <state relative-caret-position="240">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classification/Recursion/1025. Divisor Game.java">
+        <entry file="file://$PROJECT_DIR$/Classification/Array/977. Squares of a Sorted Array.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classification/Dynamic Programming/1025. Divisor Game.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ALL_Problems/1026. Maximum Difference Between Node and Ancestor/1026. Maximum Difference Between Node and Ancestor.java">
+        <entry file="file://$PROJECT_DIR$/ALL_Problems/979. Distribute Coins in Binary Tree/979. Distribute Coins in Binary Tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
-              <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
+            <state relative-caret-position="330">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classification/Tree/1026. Maximum Difference Between Node and Ancestor.java">
+        <entry file="file://$PROJECT_DIR$/Classification/Depth-First-Search/979. Distribute Coins in Binary Tree.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ALL_Problems/1027. Longest Arithmetic Sequence/1027. Longest Arithmetic Sequence.java">
+        <entry file="file://$PROJECT_DIR$/Classification/Tree/979. Distribute Coins in Binary Tree.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ALL_Problems/968. Binary Tree Cameras/968. Binary Tree Cameras.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+            <state relative-caret-position="390">
+              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classification/Depth-First-Search/968. Binary Tree Cameras.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Classification/Dynamic Programming/1027. Longest Arithmetic Sequence.java">
+        <entry file="file://$PROJECT_DIR$/Classification/Tree/968. Binary Tree Cameras.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -144,6 +146,13 @@
         <option value="$PROJECT_DIR$/ALL_Problems/1025. Divisor Game/1025. Divisor Game.java" />
         <option value="$PROJECT_DIR$/ALL_Problems/1026. Maximum Difference Between Node and Ancestor/1026. Maximum Difference Between Node and Ancestor.java" />
         <option value="$PROJECT_DIR$/ALL_Problems/1027. Longest Arithmetic Sequence/1027. Longest Arithmetic Sequence.java" />
+        <option value="$PROJECT_DIR$/ALL_Problems/1031. Maximum Sum of Two Non-Overlapping Subarrays/1031. Maximum Sum of Two Non-Overlapping Subarrays.java" />
+        <option value="$PROJECT_DIR$/ALL_Problems/921. Minimum Add to Make Parentheses Valid.java/921. Minimum Add to Make Parentheses Valid.java" />
+        <option value="$PROJECT_DIR$/ALL_Problems/994. Rotting Oranges/994. Rotting Oranges.java" />
+        <option value="$PROJECT_DIR$/ALL_Problems/981. Time Based Key-Value Store/981. Time Based Key-Value Store.java" />
+        <option value="$PROJECT_DIR$/ALL_Problems/977. Squares of a Sorted Array/977. Squares of a Sorted Array.java" />
+        <option value="$PROJECT_DIR$/ALL_Problems/979. Distribute Coins in Binary Tree/979. Distribute Coins in Binary Tree.java" />
+        <option value="$PROJECT_DIR$/ALL_Problems/968. Binary Tree Cameras/968. Binary Tree Cameras.java" />
       </list>
     </option>
   </component>
@@ -156,6 +165,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -184,7 +194,25 @@
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
               <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="921. Minimum Add to Make Parentheses Valid.java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
+              <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="968. Binary Tree Cameras" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
+              <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
               <item name="980. Unique Paths III" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
+              <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="981. Time Based Key-Value Store" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
@@ -273,7 +301,19 @@
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
               <item name="Classification" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
+              <item name="Classification" type="462c0819:PsiDirectoryNode" />
               <item name="Bit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
+              <item name="Classification" type="462c0819:PsiDirectoryNode" />
+              <item name="Breadth-First-Search" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
@@ -326,31 +366,30 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555821451934" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556167831348" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="spring.boot" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Classification/Tree" />
+      <recent name="$PROJECT_DIR$/Classification/Depth-First-Search" />
+      <recent name="$PROJECT_DIR$/Classification/Array" />
+      <recent name="$PROJECT_DIR$/Classification/TreeMap" />
+      <recent name="$PROJECT_DIR$/Classification/Breadth-First-Search" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Depth-First-Search" />
       <recent name="$PROJECT_DIR$/ALL_Problems/1020. Number of Enclaves" />
       <recent name="$PROJECT_DIR$/ALL_Problems/1019. Next Greater Node In Linked List" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Classification/Dynamic Programming" />
-      <recent name="$PROJECT_DIR$/Classification/Tree" />
-      <recent name="$PROJECT_DIR$/Classification/Recursion" />
-      <recent name="$PROJECT_DIR$/Classification/Greedy" />
-      <recent name="$PROJECT_DIR$/Classification/Comparator" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -392,16 +431,19 @@
       <workItem from="1555562270281" duration="351000" />
       <workItem from="1555648815063" duration="31000" />
       <workItem from="1555821089614" duration="367000" />
+      <workItem from="1555993441050" duration="322000" />
+      <workItem from="1556078624808" duration="408000" />
+      <workItem from="1556167669155" duration="164000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5529000" />
+    <option name="totallyTimeSpent" value="6423000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3009768" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31196582" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -435,94 +477,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Classification/Tree/1022. Sum of Root To Leaf Binary Numbers.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/1023. Camelcase Matching/1023. Camelcase Matching.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/String/1023. Camelcase Matching.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/1024. Video Stitching/1024. Video Stitching.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/Array_Overlap/1024. Video Stitching.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/1010. Pairs of Songs With Total Durations Divisible by 60/1010. Pairs of Songs With Total Durations Divisible by 60.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/HashMap/1010. Pairs of Songs With Total Durations Divisible by 60.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/1009. Complement of Base 10 Integer/1009. Complement of Base 10 Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/Bit/1009. Complement of Base 10 Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/1006. Clumsy Factorial/1006. Clumsy Factorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/Math/1006. Clumsy Factorial.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/1008. Construct Binary Search Tree from Preorder Traversal/1008. Construct Binary Search Tree from Preorder Traversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/Tree/1008. Construct Binary Search Tree from Preorder Traversal.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/1005. Maximize Sum Of Array After K Negations/1005. Maximize Sum Of Array After K Negations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/Greedy/1008. Construct Binary Search Tree from Preorder Traversal.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/1007. Minimum Domino Rotations For Equal Row/1007. Minimum Domino Rotations For Equal Row.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Classification/Greedy/1007. Minimum Domino Rotations For Equal Row.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -698,6 +652,90 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Classification/Dynamic Programming/1027. Longest Arithmetic Sequence.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ALL_Problems/1031. Maximum Sum of Two Non-Overlapping Subarrays/1031. Maximum Sum of Two Non-Overlapping Subarrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/Array/1031. Maximum Sum of Two Non-Overlapping Subarrays.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ALL_Problems/921. Minimum Add to Make Parentheses Valid.java/921. Minimum Add to Make Parentheses Valid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/Stack/921. Minimum Add to Make Parentheses Valid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ALL_Problems/994. Rotting Oranges/994. Rotting Oranges.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/Breadth-First-Search/994. Rotting Oranges.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ALL_Problems/981. Time Based Key-Value Store/981. Time Based Key-Value Store.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/TreeMap/981. Time Based Key-Value Store.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ALL_Problems/977. Squares of a Sorted Array/977. Squares of a Sorted Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/Array/977. Squares of a Sorted Array.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ALL_Problems/979. Distribute Coins in Binary Tree/979. Distribute Coins in Binary Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/Depth-First-Search/979. Distribute Coins in Binary Tree.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/Tree/979. Distribute Coins in Binary Tree.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ALL_Problems/968. Binary Tree Cameras/968. Binary Tree Cameras.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/Depth-First-Search/968. Binary Tree Cameras.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/Tree/968. Binary Tree Cameras.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
