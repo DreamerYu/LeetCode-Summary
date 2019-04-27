@@ -2,22 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42adc099-e1ae-4c91-ad8c-dd99fc5a7688" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ALL_Problems/1031. Maximum Sum of Two Non-Overlapping Subarrays/1031. Maximum Sum of Two Non-Overlapping Subarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ALL_Problems/921. Minimum Add to Make Parentheses Valid.java/921. Minimum Add to Make Parentheses Valid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ALL_Problems/968. Binary Tree Cameras/968. Binary Tree Cameras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ALL_Problems/977. Squares of a Sorted Array/977. Squares of a Sorted Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ALL_Problems/979. Distribute Coins in Binary Tree/979. Distribute Coins in Binary Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ALL_Problems/981. Time Based Key-Value Store/981. Time Based Key-Value Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ALL_Problems/994. Rotting Oranges/994. Rotting Oranges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/Array/1031. Maximum Sum of Two Non-Overlapping Subarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/Array/977. Squares of a Sorted Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/Breadth-First-Search/994. Rotting Oranges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/Depth-First-Search/968. Binary Tree Cameras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/Depth-First-Search/979. Distribute Coins in Binary Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/Stack/921. Minimum Add to Make Parentheses Valid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/Tree/968. Binary Tree Cameras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/Tree/979. Distribute Coins in Binary Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/TreeMap/981. Time Based Key-Value Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ALL_Problems/759. Employee Free Time/759. Employee Free Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ALL_Problems/905. Sort Array By Parity/905. Sort Array By Parity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ALL_Problems/963. Minimum Area Rectangle II/963. Minimum Area Rectangle II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ALL_Problems/973. K Closest Points to Origin/973. K Closest Points to Origin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/Array/905. Sort Array By Parity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/Geometry/963. Minimum Area Rectangle II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/Greedy/759. Employee Free Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/PriorityQueue/759. Employee Free Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/QuickSelect/973. K Closest Points to Origin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,72 +22,72 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ALL_Problems/981. Time Based Key-Value Store/981. Time Based Key-Value Store.java">
+        <entry file="file://$PROJECT_DIR$/Classification/Tree/968. Binary Tree Cameras.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ALL_Problems/973. K Closest Points to Origin/973. K Closest Points to Origin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+            <state relative-caret-position="810">
+              <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
               <folding>
-                <element signature="e#136#137#0" expanded="true" />
-                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#1028#1029#0" expanded="true" />
+                <element signature="e#1070#1071#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classification/TreeMap/981. Time Based Key-Value Store.java">
+        <entry file="file://$PROJECT_DIR$/Classification/QuickSelect/973. K Closest Points to Origin.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ALL_Problems/977. Squares of a Sorted Array/977. Squares of a Sorted Array.java">
+        <entry file="file://$PROJECT_DIR$/ALL_Problems/905. Sort Array By Parity/905. Sort Array By Parity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            <state relative-caret-position="270">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classification/Array/977. Squares of a Sorted Array.java">
+        <entry file="file://$PROJECT_DIR$/Classification/Array/905. Sort Array By Parity.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ALL_Problems/979. Distribute Coins in Binary Tree/979. Distribute Coins in Binary Tree.java">
+        <entry file="file://$PROJECT_DIR$/ALL_Problems/759. Employee Free Time/759. Employee Free Time.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            <state relative-caret-position="420">
+              <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classification/Depth-First-Search/979. Distribute Coins in Binary Tree.java">
+        <entry file="file://$PROJECT_DIR$/Classification/Greedy/759. Employee Free Time.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classification/Tree/979. Distribute Coins in Binary Tree.java">
+        <entry file="file://$PROJECT_DIR$/Classification/PriorityQueue/759. Employee Free Time.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ALL_Problems/968. Binary Tree Cameras/968. Binary Tree Cameras.java">
+        <entry file="file://$PROJECT_DIR$/ALL_Problems/963. Minimum Area Rectangle II/963. Minimum Area Rectangle II.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+            <state relative-caret-position="525">
+              <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classification/Depth-First-Search/968. Binary Tree Cameras.java">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Classification/Tree/968. Binary Tree Cameras.java">
+        <entry file="file://$PROJECT_DIR$/Classification/Geometry/963. Minimum Area Rectangle II.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -153,6 +146,10 @@
         <option value="$PROJECT_DIR$/ALL_Problems/977. Squares of a Sorted Array/977. Squares of a Sorted Array.java" />
         <option value="$PROJECT_DIR$/ALL_Problems/979. Distribute Coins in Binary Tree/979. Distribute Coins in Binary Tree.java" />
         <option value="$PROJECT_DIR$/ALL_Problems/968. Binary Tree Cameras/968. Binary Tree Cameras.java" />
+        <option value="$PROJECT_DIR$/ALL_Problems/973. K Closest Points to Origin/973. K Closest Points to Origin.java" />
+        <option value="$PROJECT_DIR$/ALL_Problems/905. Sort Array By Parity/905. Sort Array By Parity.java" />
+        <option value="$PROJECT_DIR$/ALL_Problems/759. Employee Free Time/759. Employee Free Time.java" />
+        <option value="$PROJECT_DIR$/ALL_Problems/963. Minimum Area Rectangle II/963. Minimum Area Rectangle II.java" />
       </list>
     </option>
   </component>
@@ -166,6 +163,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,7 +198,19 @@
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
               <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="963. Minimum Area Rectangle II" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
+              <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
               <item name="968. Binary Tree Cameras" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
+              <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="973. K Closest Points to Origin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
@@ -325,6 +335,12 @@
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
               <item name="Classification" type="462c0819:PsiDirectoryNode" />
+              <item name="Geometry" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
+              <item name="Classification" type="462c0819:PsiDirectoryNode" />
               <item name="Greedy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -366,13 +382,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556167831348" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556341185936" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -380,11 +395,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Classification/Tree" />
-      <recent name="$PROJECT_DIR$/Classification/Depth-First-Search" />
+      <recent name="$PROJECT_DIR$/Classification/Geometry" />
+      <recent name="$PROJECT_DIR$/Classification/PriorityQueue" />
+      <recent name="$PROJECT_DIR$/Classification/Greedy" />
       <recent name="$PROJECT_DIR$/Classification/Array" />
-      <recent name="$PROJECT_DIR$/Classification/TreeMap" />
-      <recent name="$PROJECT_DIR$/Classification/Breadth-First-Search" />
+      <recent name="$PROJECT_DIR$/Classification/QuickSelect" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Depth-First-Search" />
@@ -434,16 +449,18 @@
       <workItem from="1555993441050" duration="322000" />
       <workItem from="1556078624808" duration="408000" />
       <workItem from="1556167669155" duration="164000" />
+      <workItem from="1556254552612" duration="41000" />
+      <workItem from="1556341030752" duration="159000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6423000" />
+    <option name="totallyTimeSpent" value="6623000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31196582" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31929183" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -477,53 +494,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Classification/Greedy/1007. Minimum Domino Rotations For Equal Row.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/1003. Check If Word Is Valid After Substitutions/1003. Check If Word Is Valid After Substitutions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-          <folding>
-            <element signature="e#55#56#0" expanded="true" />
-            <element signature="e#91#92#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/Stack/1003. Check If Word Is Valid After Substitutions.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/1004. Max Consecutive Ones III/1004. Max Consecutive Ones III.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/Sliding-Window/1004. Max Consecutive Ones III.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/1001. Grid Illumination/1001. Grid Illumination.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/Grid/1001. Grid Illumination.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/1002. Find Common Characters/1002. Find Common Characters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/HashMap/1002. Find Common Characters.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Classification/String/1002. Find Common Characters.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -736,6 +706,53 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Classification/Tree/968. Binary Tree Cameras.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ALL_Problems/973. K Closest Points to Origin/973. K Closest Points to Origin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+          <folding>
+            <element signature="e#1028#1029#0" expanded="true" />
+            <element signature="e#1070#1071#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/QuickSelect/973. K Closest Points to Origin.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ALL_Problems/905. Sort Array By Parity/905. Sort Array By Parity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/Array/905. Sort Array By Parity.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ALL_Problems/759. Employee Free Time/759. Employee Free Time.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/Greedy/759. Employee Free Time.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/PriorityQueue/759. Employee Free Time.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ALL_Problems/963. Minimum Area Rectangle II/963. Minimum Area Rectangle II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/Geometry/963. Minimum Area Rectangle II.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
