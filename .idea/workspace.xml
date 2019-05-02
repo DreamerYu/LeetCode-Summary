@@ -2,16 +2,76 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42adc099-e1ae-4c91-ad8c-dd99fc5a7688" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ALL_Problems/759. Employee Free Time/759. Employee Free Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ALL_Problems/905. Sort Array By Parity/905. Sort Array By Parity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ALL_Problems/963. Minimum Area Rectangle II/963. Minimum Area Rectangle II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ALL_Problems/973. K Closest Points to Origin/973. K Closest Points to Origin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/Array/905. Sort Array By Parity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/Geometry/963. Minimum Area Rectangle II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/Greedy/759. Employee Free Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/PriorityQueue/759. Employee Free Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/QuickSelect/973. K Closest Points to Origin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/Array/835. Image Overlap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/Binary_Search/702. Search in a Sorted Array of Unknown Size.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/Binary_Search/774. Minimize Max Distance to Gas Station.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/Depth-First-Search/1036. Escape a Large Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/Dynamic Programming/1035. Uncrossed Lines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/Dynamic Programming/975. Odd Even Jump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions and Ideas/1033. Moving Stones Until Consecutive/1033. Moving Stones Until Consecutive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions and Ideas/1035. Uncrossed Lines/1035. Uncrossed Lines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions and Ideas/1036. Escape a Large Maze/1036. Escape a Large Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions and Ideas/24. Swap Nodes in Pairs/24. Swap Nodes in Pairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions and Ideas/24. Swap Nodes in Pairs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions and Ideas/25. Reverse Nodes in k-Group/25. Reverse Nodes in k-Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions and Ideas/25. Reverse Nodes in k-Group/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions and Ideas/26. Remove Duplicates from Sorted Array/26. Remove Duplicates from Sorted Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions and Ideas/26. Remove Duplicates from Sorted Array/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions and Ideas/702. Search in a Sorted Array of Unknown Size/702. Search in a Sorted Array of Unknown Size.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions and Ideas/774. Minimize Max Distance to Gas Station/774. Minimize Max Distance to Gas Station.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions and Ideas/835. Image Overlap/835. Image Overlap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions and Ideas/975. Odd Even Jump/975. Odd Even Jump.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1. Two Sum/1. Two Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1. Two Sum/1. Two Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1001. Grid Illumination/1001. Grid Illumination.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1001. Grid Illumination/1001. Grid Illumination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1002. Find Common Characters/1002. Find Common Characters.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1002. Find Common Characters/1002. Find Common Characters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1003. Check If Word Is Valid After Substitutions/1003. Check If Word Is Valid After Substitutions.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1003. Check If Word Is Valid After Substitutions/1003. Check If Word Is Valid After Substitutions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1004. Max Consecutive Ones III/1004. Max Consecutive Ones III.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1004. Max Consecutive Ones III/1004. Max Consecutive Ones III.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1005. Maximize Sum Of Array After K Negations/1005. Maximize Sum Of Array After K Negations.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1005. Maximize Sum Of Array After K Negations/1005. Maximize Sum Of Array After K Negations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1006. Clumsy Factorial/1006. Clumsy Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1006. Clumsy Factorial/1006. Clumsy Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1007. Minimum Domino Rotations For Equal Row/1007. Minimum Domino Rotations For Equal Row.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1007. Minimum Domino Rotations For Equal Row/1007. Minimum Domino Rotations For Equal Row.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1008. Construct Binary Search Tree from Preorder Traversal/1008. Construct Binary Search Tree from Preorder Traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1008. Construct Binary Search Tree from Preorder Traversal/1008. Construct Binary Search Tree from Preorder Traversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1009. Complement of Base 10 Integer/1009. Complement of Base 10 Integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1009. Complement of Base 10 Integer/1009. Complement of Base 10 Integer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1010. Pairs of Songs With Total Durations Divisible by 60/1010. Pairs of Songs With Total Durations Divisible by 60.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1010. Pairs of Songs With Total Durations Divisible by 60/1010. Pairs of Songs With Total Durations Divisible by 60.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1011. Capacity To Ship Packages Within D Days/1011. Capacity To Ship Packages Within D Days.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1011. Capacity To Ship Packages Within D Days/1011. Capacity To Ship Packages Within D Days.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1013. Partition Array Into Three Parts With Equal Sum/1013. Partition Array Into Three Parts With Equal Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1013. Partition Array Into Three Parts With Equal Sum/1013. Partition Array Into Three Parts With Equal Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1014. Best Sightseeing Pair/1014. Best Sightseeing Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1014. Best Sightseeing Pair/1014. Best Sightseeing Pair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1016. Binary String With Substrings Representing 1 To N/1016. Binary String With Substrings Representing 1 To N.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1016. Binary String With Substrings Representing 1 To N/1016. Binary String With Substrings Representing 1 To N.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1017. Convert to Base -2/1017. Convert to Base -2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1017. Convert to Base -2/1017. Convert to Base -2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1018. Binary Prefix Divisible By 5/1018. Binary Prefix Divisible By 5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1018. Binary Prefix Divisible By 5/1018. Binary Prefix Divisible By 5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1019. Next Greater Node In Linked List/1019. Next Greater Node In Linked List.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1019. Next Greater Node In Linked List/1019. Next Greater Node In Linked List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1020. Number of Enclaves/1020. Number of Enclaves.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1020. Number of Enclaves/1020. Number of Enclaves.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1021. Remove Outermost Parentheses/1021. Remove Outermost Parentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1021. Remove Outermost Parentheses/1021. Remove Outermost Parentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1022. Sum of Root To Leaf Binary Numbers/1022. Sum of Root To Leaf Binary Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1022. Sum of Root To Leaf Binary Numbers/1022. Sum of Root To Leaf Binary Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1023. Camelcase Matching/1023. Camelcase Matching.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1023. Camelcase Matching/1023. Camelcase Matching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1024. Video Stitching/1024. Video Stitching.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1024. Video Stitching/1024. Video Stitching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1025. Divisor Game/1025. Divisor Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1025. Divisor Game/1025. Divisor Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1026. Maximum Difference Between Node and Ancestor/1026. Maximum Difference Between Node and Ancestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1026. Maximum Difference Between Node and Ancestor/1026. Maximum Difference Between Node and Ancestor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1027. Longest Arithmetic Sequence/1027. Longest Arithmetic Sequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1027. Longest Arithmetic Sequence/1027. Longest Arithmetic Sequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1029. Two City Scheduling/1029. Two City Scheduling.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1029. Two City Scheduling/1029. Two City Scheduling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1030. Matrix Cells in Distance Order/1030. Matrix Cells in Distance Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1030. Matrix Cells in Distance Order/1030. Matrix Cells in Distance Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1031. Maximum Sum of Two Non-Overlapping Subarrays/1031. Maximum Sum of Two Non-Overlapping Subarrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1031. Maximum Sum of Two Non-Overlapping Subarrays/1031. Maximum Sum of Two Non-Overlapping Subarrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/1032. Stream of Characters/1032. Stream of Characters.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/1032. Stream of Characters/1032. Stream of Characters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/2. Add Two Numbers/2. Add Two Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/2. Add Two Numbers/2. Add Two Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/3. Longest Substring Without Repeating Characters/3. Longest Substring Without Repeating Characters.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/3. Longest Substring Without Repeating Characters/3. Longest Substring Without Repeating Characters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/410. Split Array Largest Sum/410. Split Array Largest Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/410. Split Array Largest Sum/410. Split Array Largest Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/5. Longest Palindromic Substring/5. Longest Palindromic Substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/5. Longest Palindromic Substring/5. Longest Palindromic Substring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/759. Employee Free Time/759. Employee Free Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/759. Employee Free Time/759. Employee Free Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/905. Sort Array By Parity/905. Sort Array By Parity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/905. Sort Array By Parity/905. Sort Array By Parity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/921. Minimum Add to Make Parentheses Valid.java/921. Minimum Add to Make Parentheses Valid.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/921. Minimum Add to Make Parentheses Valid.java/921. Minimum Add to Make Parentheses Valid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/963. Minimum Area Rectangle II/963. Minimum Area Rectangle II.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/963. Minimum Area Rectangle II/963. Minimum Area Rectangle II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/968. Binary Tree Cameras/968. Binary Tree Cameras.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/968. Binary Tree Cameras/968. Binary Tree Cameras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/973. K Closest Points to Origin/973. K Closest Points to Origin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/973. K Closest Points to Origin/973. K Closest Points to Origin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/977. Squares of a Sorted Array/977. Squares of a Sorted Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/977. Squares of a Sorted Array/977. Squares of a Sorted Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/979. Distribute Coins in Binary Tree/979. Distribute Coins in Binary Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/979. Distribute Coins in Binary Tree/979. Distribute Coins in Binary Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/980. Unique Paths III/980. Unique Paths III.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/980. Unique Paths III/980. Unique Paths III.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/981. Time Based Key-Value Store/981. Time Based Key-Value Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/981. Time Based Key-Value Store/981. Time Based Key-Value Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/993. Cousins in Binary Tree/993. Cousins in Binary Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/993. Cousins in Binary Tree/993. Cousins in Binary Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/994. Rotting Oranges/994. Rotting Oranges.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/994. Rotting Oranges/994. Rotting Oranges.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/996. Number of Squareful Arrays/996. Number of Squareful Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/996. Number of Squareful Arrays/996. Number of Squareful Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/997. Find the Town Judge/997. Find the Town Judge.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/997. Find the Town Judge/997. Find the Town Judge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/998. Maximum Binary Tree II/998. Maximum Binary Tree II.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/998. Maximum Binary Tree II/998. Maximum Binary Tree II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALL_Problems/999. Available Captures for Rook/999. Available Captures for Rook.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions and Ideas/999. Available Captures for Rook/999. Available Captures for Rook.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,44 +82,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classification/Tree/968. Binary Tree Cameras.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ALL_Problems/973. K Closest Points to Origin/973. K Closest Points to Origin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
-              <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
-              <folding>
-                <element signature="e#1028#1029#0" expanded="true" />
-                <element signature="e#1070#1071#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classification/QuickSelect/973. K Closest Points to Origin.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ALL_Problems/905. Sort Array By Parity/905. Sort Array By Parity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classification/Array/905. Sort Array By Parity.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ALL_Problems/759. Employee Free Time/759. Employee Free Time.java">
+        <entry file="file://$PROJECT_DIR$/Solutions and Ideas/835. Image Overlap/835. Image Overlap.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
               <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
@@ -68,27 +91,85 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classification/Greedy/759. Employee Free Time.java">
+        <entry file="file://$PROJECT_DIR$/Classification/Array/835. Image Overlap.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classification/PriorityQueue/759. Employee Free Time.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ALL_Problems/963. Minimum Area Rectangle II/963. Minimum Area Rectangle II.java">
+        <entry file="file://$PROJECT_DIR$/Solutions and Ideas/774. Minimize Max Distance to Gas Station/774. Minimize Max Distance to Gas Station.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+            <state relative-caret-position="495">
+              <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classification/Binary_Search/774. Minimize Max Distance to Gas Station.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Solutions and Ideas/24. Swap Nodes in Pairs/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="85" selection-start-line="9" selection-start-column="85" selection-end-line="9" selection-end-column="85" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Solutions and Ideas/24. Swap Nodes in Pairs/24. Swap Nodes in Pairs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Solutions and Ideas/25. Reverse Nodes in k-Group/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="120">
+                <caret line="8" column="154" selection-start-line="8" selection-start-column="154" selection-end-line="8" selection-end-column="154" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Solutions and Ideas/25. Reverse Nodes in k-Group/25. Reverse Nodes in k-Group.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Solutions and Ideas/26. Remove Duplicates from Sorted Array/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="118" selection-start-line="7" selection-start-column="118" selection-end-line="7" selection-end-column="118" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Classification/Geometry/963. Minimum Area Rectangle II.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/Solutions and Ideas/26. Remove Duplicates from Sorted Array/26. Remove Duplicates from Sorted Array.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -99,20 +180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ALL_Problems/1020. Number of Enclaves.java" />
-        <option value="$PROJECT_DIR$/ALL_Problems/1019. Next Greater Node In Linked List.java" />
-        <option value="$PROJECT_DIR$/ALL_Problems/3. Longest Substring Without Repeating Characters/3. Longest Substring Without Repeating Characters.java" />
-        <option value="$PROJECT_DIR$/ALL_Problems/2. Add Two Numbers/2. Add Two Numbers.java" />
-        <option value="$PROJECT_DIR$/ALL_Problems/1. Two Sum/1. Two Sum.java" />
-        <option value="$PROJECT_DIR$/ALL_Problems/5. Longest Palindromic Substring/5. Longest Palindromic Substring.java" />
-        <option value="$PROJECT_DIR$/ALL_Problems/1018. Binary Prefix Divisible By 5/1018. Binary Prefix Divisible By 5.java" />
-        <option value="$PROJECT_DIR$/ALL_Problems/1017. Convert to Base -2/1017. Convert to Base -2.java" />
-        <option value="$PROJECT_DIR$/ALL_Problems/1016. Binary String With Substrings Representing 1 To N/1016. Binary String With Substrings Representing 1 To N.java" />
-        <option value="$PROJECT_DIR$/ALL_Problems/1014. Best Sightseeing Pair/1014. Best Sightseeing Pair.java" />
-        <option value="$PROJECT_DIR$/ALL_Problems/1013. Partition Array Into Three Parts With Equal Sum/1013. Partition Array Into Three Parts With Equal Sum.java" />
-        <option value="$PROJECT_DIR$/ALL_Problems/1011. Capacity To Ship Packages Within D Days/1011. Capacity To Ship Packages Within D Days.java" />
-        <option value="$PROJECT_DIR$/ALL_Problems/410. Split Array Largest Sum/410. Split Array Largest Sum.java" />
-        <option value="$PROJECT_DIR$/ALL_Problems/1021. Remove Outermost Parentheses/1021. Remove Outermost Parentheses.java" />
         <option value="$PROJECT_DIR$/ALL_Problems/1022. Sum of Root To Leaf Binary Numbers/1022. Sum of Root To Leaf Binary Numbers.java" />
         <option value="$PROJECT_DIR$/ALL_Problems/1023. Camelcase Matching/1023. Camelcase Matching.java" />
         <option value="$PROJECT_DIR$/ALL_Problems/1024. Video Stitching/1024. Video Stitching.java" />
@@ -150,6 +217,20 @@
         <option value="$PROJECT_DIR$/ALL_Problems/905. Sort Array By Parity/905. Sort Array By Parity.java" />
         <option value="$PROJECT_DIR$/ALL_Problems/759. Employee Free Time/759. Employee Free Time.java" />
         <option value="$PROJECT_DIR$/ALL_Problems/963. Minimum Area Rectangle II/963. Minimum Area Rectangle II.java" />
+        <option value="$PROJECT_DIR$/ALL_Problems/1036. Escape a Large Maze/1036. Escape a Large Maze.java" />
+        <option value="$PROJECT_DIR$/ALL_Problems/1033. Moving Stones Until Consecutive/1033. Moving Stones Until Consecutive.java" />
+        <option value="$PROJECT_DIR$/ALL_Problems/1035. Uncrossed Lines/1035. Uncrossed Lines.java" />
+        <option value="$PROJECT_DIR$/ALL_Problems/702. Search in a Sorted Array of Unknown Size/702. Search in a Sorted Array of Unknown Size.java" />
+        <option value="$PROJECT_DIR$/ALL_Problems/975. Odd Even Jump/975. Odd Even Jump.java" />
+        <option value="$PROJECT_DIR$/ALL_Problems/835. Image Overlap/835. Image Overlap.java" />
+        <option value="$PROJECT_DIR$/ALL_Problems/774. Minimize Max Distance to Gas Station/774. Minimize Max Distance to Gas Station.java" />
+        <option value="$PROJECT_DIR$/ALL_Problems/24. Swap Nodes in Pairs/README.md" />
+        <option value="$PROJECT_DIR$/Solutions and Ideas/24. Swap Nodes in Pairs/README.md" />
+        <option value="$PROJECT_DIR$/Solutions and Ideas/24. Swap Nodes in Pairs/24. Swap Nodes in Pairs.java" />
+        <option value="$PROJECT_DIR$/Solutions and Ideas/25. Reverse Nodes in k-Group/README.md" />
+        <option value="$PROJECT_DIR$/Solutions and Ideas/25. Reverse Nodes in k-Group/25. Reverse Nodes in k-Group.java" />
+        <option value="$PROJECT_DIR$/Solutions and Ideas/26. Remove Duplicates from Sorted Array/README.md" />
+        <option value="$PROJECT_DIR$/Solutions and Ideas/26. Remove Duplicates from Sorted Array/26. Remove Duplicates from Sorted Array.java" />
       </list>
     </option>
   </component>
@@ -162,7 +243,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -174,204 +254,151 @@
             <path>
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="Solutions and Ideas" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="Solutions and Ideas" type="462c0819:PsiDirectoryNode" />
               <item name="5. Longest Palindromic Substring" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="Solutions and Ideas" type="462c0819:PsiDirectoryNode" />
+              <item name="24. Swap Nodes in Pairs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
+              <item name="Solutions and Ideas" type="462c0819:PsiDirectoryNode" />
               <item name="410. Split Array Largest Sum" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="Solutions and Ideas" type="462c0819:PsiDirectoryNode" />
+              <item name="774. Minimize Max Distance to Gas Station" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
+              <item name="Solutions and Ideas" type="462c0819:PsiDirectoryNode" />
               <item name="921. Minimum Add to Make Parentheses Valid.java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="Solutions and Ideas" type="462c0819:PsiDirectoryNode" />
               <item name="963. Minimum Area Rectangle II" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="Solutions and Ideas" type="462c0819:PsiDirectoryNode" />
               <item name="968. Binary Tree Cameras" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="Solutions and Ideas" type="462c0819:PsiDirectoryNode" />
               <item name="973. K Closest Points to Origin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="Solutions and Ideas" type="462c0819:PsiDirectoryNode" />
               <item name="980. Unique Paths III" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="Solutions and Ideas" type="462c0819:PsiDirectoryNode" />
               <item name="981. Time Based Key-Value Store" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="Solutions and Ideas" type="462c0819:PsiDirectoryNode" />
               <item name="993. Cousins in Binary Tree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="Solutions and Ideas" type="462c0819:PsiDirectoryNode" />
               <item name="997. Find the Town Judge" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="Solutions and Ideas" type="462c0819:PsiDirectoryNode" />
               <item name="998. Maximum Binary Tree II" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="Solutions and Ideas" type="462c0819:PsiDirectoryNode" />
               <item name="1002. Find Common Characters" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="Solutions and Ideas" type="462c0819:PsiDirectoryNode" />
               <item name="1004. Max Consecutive Ones III" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="Solutions and Ideas" type="462c0819:PsiDirectoryNode" />
               <item name="1007. Minimum Domino Rotations For Equal Row" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="Solutions and Ideas" type="462c0819:PsiDirectoryNode" />
               <item name="1008. Construct Binary Search Tree from Preorder Traversal" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="Solutions and Ideas" type="462c0819:PsiDirectoryNode" />
               <item name="1009. Complement of Base 10 Integer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="Solutions and Ideas" type="462c0819:PsiDirectoryNode" />
               <item name="1013. Partition Array Into Three Parts With Equal Sum" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="Solutions and Ideas" type="462c0819:PsiDirectoryNode" />
               <item name="1016. Binary String With Substrings Representing 1 To N" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="Solutions and Ideas" type="462c0819:PsiDirectoryNode" />
               <item name="1018. Binary Prefix Divisible By 5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="Solutions and Ideas" type="462c0819:PsiDirectoryNode" />
               <item name="1024. Video Stitching" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="ALL_Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="Solutions and Ideas" type="462c0819:PsiDirectoryNode" />
               <item name="1027. Longest Arithmetic Sequence" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="Classification" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="Classification" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="Classification" type="462c0819:PsiDirectoryNode" />
-              <item name="Bit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="Classification" type="462c0819:PsiDirectoryNode" />
-              <item name="Breadth-First-Search" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="Classification" type="462c0819:PsiDirectoryNode" />
-              <item name="Depth-First-Search" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="Classification" type="462c0819:PsiDirectoryNode" />
-              <item name="Geometry" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="Classification" type="462c0819:PsiDirectoryNode" />
-              <item name="Greedy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="Classification" type="462c0819:PsiDirectoryNode" />
-              <item name="HashMap" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="Classification" type="462c0819:PsiDirectoryNode" />
-              <item name="Sliding-Window" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="Classification" type="462c0819:PsiDirectoryNode" />
-              <item name="Stack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="Classification" type="462c0819:PsiDirectoryNode" />
-              <item name="String" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Summary" type="462c0819:PsiDirectoryNode" />
-              <item name="Classification" type="462c0819:PsiDirectoryNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="Solutions and Ideas" type="462c0819:PsiDirectoryNode" />
+              <item name="1035. Uncrossed Lines" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Summary" type="b2602c69:ProjectViewProjectNode" />
@@ -382,12 +409,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556341185936" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556819680824" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -395,11 +423,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Classification/Geometry" />
-      <recent name="$PROJECT_DIR$/Classification/PriorityQueue" />
-      <recent name="$PROJECT_DIR$/Classification/Greedy" />
+      <recent name="$PROJECT_DIR$/Classification/Binary_Search" />
       <recent name="$PROJECT_DIR$/Classification/Array" />
-      <recent name="$PROJECT_DIR$/Classification/QuickSelect" />
+      <recent name="$PROJECT_DIR$/Classification/Dynamic Programming" />
+      <recent name="$PROJECT_DIR$/Classification/Depth-First-Search" />
+      <recent name="$PROJECT_DIR$/Classification/Geometry" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Depth-First-Search" />
@@ -451,16 +479,20 @@
       <workItem from="1556167669155" duration="164000" />
       <workItem from="1556254552612" duration="41000" />
       <workItem from="1556341030752" duration="159000" />
+      <workItem from="1556427864445" duration="111000" />
+      <workItem from="1556686392277" duration="444000" />
+      <workItem from="1556815413091" duration="1988000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6623000" />
+    <option name="totallyTimeSpent" value="9166000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31929183" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33028084" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -494,104 +526,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Classification/String/1002. Find Common Characters.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/999. Available Captures for Rook/999. Available Captures for Rook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/998. Maximum Binary Tree II/998. Maximum Binary Tree II.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/Tree/998. Maximum Binary Tree II.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/996. Number of Squareful Arrays/996. Number of Squareful Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/Backtracking/996. Number of Squareful Arrays.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/997. Find the Town Judge/997. Find the Town Judge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/Graph/997. Find the Town Judge.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/993. Cousins in Binary Tree/993. Cousins in Binary Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/Tree/993. Cousins in Binary Tree.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/Breadth-First-Search/993. Cousins in Binary Tree.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/980. Unique Paths III/980. Unique Paths III.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/Depth-First-Search/980. Unique Paths III.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/1032. Stream of Characters/1032. Stream of Characters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="3" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
-          <folding>
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/Trie/1032. Stream of Characters.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/1030. Matrix Cells in Distance Order/1030. Matrix Cells in Distance Order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/Comparator/1030. Matrix Cells in Distance Order.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/1029. Two City Scheduling/1029. Two City Scheduling.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/Greedy/1029. Two City Scheduling.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/1025. Divisor Game/1025. Divisor Game.java">
+    <entry file="file://$PROJECT_DIR$/Solutions and Ideas/1025. Divisor Game/1025. Divisor Game.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
@@ -604,7 +539,7 @@
     <entry file="file://$PROJECT_DIR$/Classification/Dynamic Programming/1025. Divisor Game.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/1026. Maximum Difference Between Node and Ancestor/1026. Maximum Difference Between Node and Ancestor.java">
+    <entry file="file://$PROJECT_DIR$/Solutions and Ideas/1026. Maximum Difference Between Node and Ancestor/1026. Maximum Difference Between Node and Ancestor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
           <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
@@ -614,7 +549,7 @@
     <entry file="file://$PROJECT_DIR$/Classification/Tree/1026. Maximum Difference Between Node and Ancestor.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/1027. Longest Arithmetic Sequence/1027. Longest Arithmetic Sequence.java">
+    <entry file="file://$PROJECT_DIR$/Solutions and Ideas/1027. Longest Arithmetic Sequence/1027. Longest Arithmetic Sequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
@@ -624,7 +559,7 @@
     <entry file="file://$PROJECT_DIR$/Classification/Dynamic Programming/1027. Longest Arithmetic Sequence.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/1031. Maximum Sum of Two Non-Overlapping Subarrays/1031. Maximum Sum of Two Non-Overlapping Subarrays.java">
+    <entry file="file://$PROJECT_DIR$/Solutions and Ideas/1031. Maximum Sum of Two Non-Overlapping Subarrays/1031. Maximum Sum of Two Non-Overlapping Subarrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
@@ -634,7 +569,7 @@
     <entry file="file://$PROJECT_DIR$/Classification/Array/1031. Maximum Sum of Two Non-Overlapping Subarrays.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/921. Minimum Add to Make Parentheses Valid.java/921. Minimum Add to Make Parentheses Valid.java">
+    <entry file="file://$PROJECT_DIR$/Solutions and Ideas/921. Minimum Add to Make Parentheses Valid.java/921. Minimum Add to Make Parentheses Valid.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
@@ -648,7 +583,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/994. Rotting Oranges/994. Rotting Oranges.java">
+    <entry file="file://$PROJECT_DIR$/Solutions and Ideas/994. Rotting Oranges/994. Rotting Oranges.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
           <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
@@ -658,7 +593,7 @@
     <entry file="file://$PROJECT_DIR$/Classification/Breadth-First-Search/994. Rotting Oranges.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/981. Time Based Key-Value Store/981. Time Based Key-Value Store.java">
+    <entry file="file://$PROJECT_DIR$/Solutions and Ideas/981. Time Based Key-Value Store/981. Time Based Key-Value Store.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
@@ -672,7 +607,7 @@
     <entry file="file://$PROJECT_DIR$/Classification/TreeMap/981. Time Based Key-Value Store.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/977. Squares of a Sorted Array/977. Squares of a Sorted Array.java">
+    <entry file="file://$PROJECT_DIR$/Solutions and Ideas/977. Squares of a Sorted Array/977. Squares of a Sorted Array.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
@@ -682,7 +617,7 @@
     <entry file="file://$PROJECT_DIR$/Classification/Array/977. Squares of a Sorted Array.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/979. Distribute Coins in Binary Tree/979. Distribute Coins in Binary Tree.java">
+    <entry file="file://$PROJECT_DIR$/Solutions and Ideas/979. Distribute Coins in Binary Tree/979. Distribute Coins in Binary Tree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
@@ -695,7 +630,7 @@
     <entry file="file://$PROJECT_DIR$/Classification/Tree/979. Distribute Coins in Binary Tree.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/968. Binary Tree Cameras/968. Binary Tree Cameras.java">
+    <entry file="file://$PROJECT_DIR$/Solutions and Ideas/968. Binary Tree Cameras/968. Binary Tree Cameras.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
@@ -708,7 +643,7 @@
     <entry file="file://$PROJECT_DIR$/Classification/Tree/968. Binary Tree Cameras.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/973. K Closest Points to Origin/973. K Closest Points to Origin.java">
+    <entry file="file://$PROJECT_DIR$/Solutions and Ideas/973. K Closest Points to Origin/973. K Closest Points to Origin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
           <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
@@ -722,7 +657,7 @@
     <entry file="file://$PROJECT_DIR$/Classification/QuickSelect/973. K Closest Points to Origin.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/905. Sort Array By Parity/905. Sort Array By Parity.java">
+    <entry file="file://$PROJECT_DIR$/Solutions and Ideas/905. Sort Array By Parity/905. Sort Array By Parity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
@@ -732,7 +667,7 @@
     <entry file="file://$PROJECT_DIR$/Classification/Array/905. Sort Array By Parity.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/759. Employee Free Time/759. Employee Free Time.java">
+    <entry file="file://$PROJECT_DIR$/Solutions and Ideas/759. Employee Free Time/759. Employee Free Time.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
@@ -745,7 +680,7 @@
     <entry file="file://$PROJECT_DIR$/Classification/PriorityQueue/759. Employee Free Time.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ALL_Problems/963. Minimum Area Rectangle II/963. Minimum Area Rectangle II.java">
+    <entry file="file://$PROJECT_DIR$/Solutions and Ideas/963. Minimum Area Rectangle II/963. Minimum Area Rectangle II.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
@@ -754,6 +689,124 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Classification/Geometry/963. Minimum Area Rectangle II.java">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solutions and Ideas/1036. Escape a Large Maze/1036. Escape a Large Maze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/Depth-First-Search/1036. Escape a Large Maze.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solutions and Ideas/1033. Moving Stones Until Consecutive/1033. Moving Stones Until Consecutive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solutions and Ideas/1035. Uncrossed Lines/1035. Uncrossed Lines.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/Dynamic Programming/1035. Uncrossed Lines.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solutions and Ideas/702. Search in a Sorted Array of Unknown Size/702. Search in a Sorted Array of Unknown Size.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/Binary_Search/702. Search in a Sorted Array of Unknown Size.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solutions and Ideas/975. Odd Even Jump/975. Odd Even Jump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/Dynamic Programming/975. Odd Even Jump.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solutions and Ideas/835. Image Overlap/835. Image Overlap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/Array/835. Image Overlap.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solutions and Ideas/774. Minimize Max Distance to Gas Station/774. Minimize Max Distance to Gas Station.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/Binary_Search/774. Minimize Max Distance to Gas Station.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solutions and Ideas/24. Swap Nodes in Pairs/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="85" selection-start-line="9" selection-start-column="85" selection-end-line="9" selection-end-column="85" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solutions and Ideas/24. Swap Nodes in Pairs/24. Swap Nodes in Pairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solutions and Ideas/25. Reverse Nodes in k-Group/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="154" selection-start-line="8" selection-start-column="154" selection-end-line="8" selection-end-column="154" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solutions and Ideas/25. Reverse Nodes in k-Group/25. Reverse Nodes in k-Group.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solutions and Ideas/26. Remove Duplicates from Sorted Array/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="118" selection-start-line="7" selection-start-column="118" selection-end-line="7" selection-end-column="118" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solutions and Ideas/26. Remove Duplicates from Sorted Array/26. Remove Duplicates from Sorted Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
